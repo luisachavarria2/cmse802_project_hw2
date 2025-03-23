@@ -6,9 +6,10 @@ Description: Ferropericlase (Mg,Fe)O is the second most abundant mineral in the 
 
 Objectives:
 
-Implement a Monte Carlo simulation to model sodium substitution in ferropericlase (Mg,Fe)O
-Investigate the effect of pressure on incorporation energies and site preferences (Mg vs Fe)
-Explore how increasing pressure changes Na solubility trends
+1. Implement a Monte Carlo simulation to model sodium substitution in ferropericlase (Mg,Fe)O
+2. Investigate the effect of pressure on incorporation energies and site preferences (Mg vs Fe)
+3. Explore how increasing pressure changes Na solubility trends
+
 This repository has the following structure:
 
 /scr/ - All source code modules and scripts
