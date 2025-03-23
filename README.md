@@ -19,5 +19,6 @@ This repository has the following structure:
 * /docs/ - Documentation files
 * /results/ - Generated outputs (figures, model checkpoints, etc.)
 
--.gitignore -README.md
+* .gitignore 
+* README.md
 
