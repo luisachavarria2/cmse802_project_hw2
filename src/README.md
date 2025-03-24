@@ -2,9 +2,8 @@
 
 This folder includes all source code modules and scripts
 
-├── src/
-│   ├── lattice.py
-│   ├── energy_calculation.py
-│   ├── monte_carlo.py
-│   ├── simulations.py
+lattice.py
+energy_calculation.py
+monte_Carlo.py
+simulations.py
 
