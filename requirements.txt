@@ -1,0 +1,11 @@
+﻿Requirements
+
+Python== 3.11.11
+Numpy ==1.23.5
+unnittest2== 1.1.0
+
+Other libraries: 
+
+maplotlib.pyplot
+Math
+Mpl_toolkits.mplot3d
